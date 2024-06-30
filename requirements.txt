@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+numpy
+jupyter
+scipy
+polars
+mlflow
+matplotlib
+seaborn
+Metaflow
+Mypy
+FastAPI
+streamlit
+psutil
+plotly
+xarray
+cloudpickle
